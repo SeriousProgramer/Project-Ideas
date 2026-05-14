@@ -1,0 +1,1 @@
+Whatsapp bot that diagnoses error using grammar checking model ala grammarly (not an llm) and replies with a java style syntax error message about violations of proper grammar.
