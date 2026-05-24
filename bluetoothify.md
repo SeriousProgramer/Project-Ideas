@@ -1,0 +1,1 @@
+Aux slot connected to bluetooth module that turns any aux earphone/headphone into a bluetooth device you can connect to with your phone.
